@@ -11,3 +11,6 @@
 [Youtube video 1](https://www.youtube.com/watch?v=XoLmA0aa5fA)
 
 [Youtube video 2](https://www.youtube.com/watch?v=rxUcfQH975Y)
+
+## Based on:
+[HACKEAMOS o DINO do CHROME com Arduino](https://www.youtube.com/watch?v=dUGAAOIsd0c)
